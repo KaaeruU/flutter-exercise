@@ -1,3 +1,3 @@
 # Flutter Project
 
-A new Flutter project.
+A simple exam I did for my accademy
